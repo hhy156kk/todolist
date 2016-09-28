@@ -1,0 +1,5 @@
+# .ignore
+
+*.sqlite3
+
+*.pyc
